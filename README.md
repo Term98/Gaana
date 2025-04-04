@@ -33,12 +33,12 @@ A modern, responsive Spotify clone built with React, TypeScript, and SCSS. This 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spotify-clone.git
+git clone https://github.com/Term98/Gaana.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd spotify-clone
+cd project
 ```
 
 3. Install dependencies:
